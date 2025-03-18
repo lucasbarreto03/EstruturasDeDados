@@ -2,7 +2,8 @@
 
 Este Repositório tem como objetivo proporcionar uma compreensão detalhada sobre as estruturas de dados fundamentais listas encadeadas, listas ordenadas e árvores, implementadas na linguagem C#. O conteúdo aborda desde os conceitos teóricos até a aplicação prática dessas estruturas, explorando seus comportamentos, vantagens e desvantagens, além de exemplos de implementação no C#.
 
-O que você encontrará nesta apostila:
+# O que você encontrará nesta apostila:
+
 Listas Encadeadas: Conceitos, tipos e implementação de listas encadeadas simples, com exemplos práticos e simulações de inserção, remoção e navegação.
 
 Listas Ordenadas: Como manter uma lista encadeada ordenada, técnicas de inserção e a manutenção da ordem dos elementos à medida que operações são realizadas.
