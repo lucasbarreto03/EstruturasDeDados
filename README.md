@@ -1,7 +1,7 @@
 # EstruturasDeDados
 Repositório para estudo de listas encadeadas, listas ordenadas e árvores binárias em C#
 
-#Introdução 
+# Introdução 
 Esta apostila tem como objetivo proporcionar uma compreensão detalhada sobre as estruturas de dados fundamentais listas encadeadas, listas ordenadas e árvores, implementadas na linguagem C#. O conteúdo aborda desde os conceitos teóricos até a aplicação prática dessas estruturas, explorando seus comportamentos, vantagens e desvantagens, além de exemplos de implementação no C#.
 
 O que você encontrará nesta apostila:
@@ -13,7 +13,7 @@ Listas Ordenadas: Como manter uma lista encadeada ordenada, técnicas de inserç
 
 Esta apostila é ideal para quem está aprendendo sobre estruturas de dados e deseja entender como aplicá-las efetivamente em C#.
 
-#Referêcia 
+# Referêcia 
 Explore o funcionamento de uma lista encadeada simples:
 https://goo.gl/Cf3dJN
 
