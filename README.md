@@ -13,7 +13,7 @@ Listas Ordenadas: Como manter uma lista encadeada ordenada, técnicas de inserç
 
 Esta apostila é ideal para quem está aprendendo sobre estruturas de dados e deseja entender como aplicá-las efetivamente em C#.
 
-# Referêcia 
+# Referências
 Explore o funcionamento de uma lista encadeada simples:
 https://goo.gl/Cf3dJN
 
